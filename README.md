@@ -15,3 +15,10 @@ A pure object-oriented language is one that treats everything as an object and h
 
 Python also supports procedural and functional programming paradigms, in addition to object-oriented programming, which further distinguishes it from a pure object-oriented language. However, Python's object-oriented features are robust and are widely used in many applications.
 _source:_:  😀 https://chat.openai.com/chat
+
+#### Traits of Python ?
+- It supports functional and structured programming methods as well as OOP.
+- It can be used as a scripting language or can be compiled to byte-code for building large applications.
+- It provides very high-level dynamic data types and supports dynamic type checking.
+- It supports automatic garbage collection.
+- It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
