@@ -39,4 +39,24 @@ _source_:  😀 https://chat.openai.com/chat
 
 print(add.__doc__)
   ```
-    
+
+### Variables
+  - No such datatypes are there. Python automatically infers them like in Go we've `:=`.
+  
+      ```
+      counter = 100          # Creates an integer variable
+      miles   = 1000.0       # Creates a floating point variable
+      name    = "Zara Ali"   # Creates a string variable
+      ```
+  - We can delete the variable as well.
+      ```
+        del counter
+      ```
+  - If we try to print the variable `counter` then it will present the error
+      ```
+      100
+      Traceback (most recent call last):
+        File "main.py", line 7, in <module>
+          print (counter)
+      NameError: name 'counter' is not defined
+      ```
