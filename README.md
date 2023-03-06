@@ -60,3 +60,21 @@ print(add.__doc__)
           print (counter)
       NameError: name 'counter' is not defined
       ```
+   - Multiple variable assignment.
+     ```
+         a = b = c = 100
+
+          print (a)
+          print (b)
+          print (c)
+     ``` 
+  - Python Global Variable<br/>
+      ```
+        x = 5
+        y = 10
+        def sum():
+           sum = x + y
+           return sum
+        print(sum())
+      ```
+  
