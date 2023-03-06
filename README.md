@@ -40,5 +40,46 @@ _source_:  😀 https://chat.openai.com/chat
 print(add.__doc__)
   ```
 
+<<<<<<< HEAD
 
     
+=======
+### Variables
+  - No such datatypes are there. Python automatically infers them like in Go we've `:=`.
+  
+      ```
+      counter = 100          # Creates an integer variable
+      miles   = 1000.0       # Creates a floating point variable
+      name    = "Zara Ali"   # Creates a string variable
+      ```
+  - We can delete the variable as well.
+      ```
+        del counter
+      ```
+  - If we try to print the variable `counter` then it will present the error
+      ```
+      100
+      Traceback (most recent call last):
+        File "main.py", line 7, in <module>
+          print (counter)
+      NameError: name 'counter' is not defined
+      ```
+   - Multiple variable assignment.
+     ```
+         a = b = c = 100
+
+          print (a)
+          print (b)
+          print (c)
+     ``` 
+  - Python Global Variable<br/>
+      ```
+        x = 5
+        y = 10
+        def sum():
+           sum = x + y
+           return sum
+        print(sum())
+      ```
+  
+>>>>>>> 1732e6faacad5d1f276795ffd50d65e031a13c8a
