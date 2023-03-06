@@ -21,4 +21,4 @@ _source:_:  😀 https://chat.openai.com/chat
 - It can be used as a scripting language or can be compiled to byte-code for building large applications.
 - It provides very high-level dynamic data types and supports dynamic type checking.
 - It supports automatic garbage collection.
-- It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
+- It can be easily integrated with Golang 😃: C, C++, COM, ActiveX, CORBA, and Java.
