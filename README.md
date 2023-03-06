@@ -22,3 +22,21 @@ _source_:  😀 https://chat.openai.com/chat
 - It provides very high-level dynamic data types and supports dynamic type checking.
 - It supports automatic garbage collection.
 - It can be easily integrated with Golang 😃: C, C++, COM, ActiveX, CORBA, and Java.
+
+#### Comments 
+  - Single line comment. Example `# Python is awesome`
+  - Multiline comments. Example: <br/>
+    ```
+    # Sniper Elite 4 
+    # Doom
+    # Far Cry 6
+    ```
+  - Docstring: Python docstrings provide a convenient way to provide a help documentation with Python modules, functions, classes, and methods. The docstring is then made available via the __doc__ attribute.<br/>
+  ```
+  def add(a, b):
+    """Function to add the value of a and b"""
+    return a+b
+
+print(add.__doc__)
+  ```
+    
