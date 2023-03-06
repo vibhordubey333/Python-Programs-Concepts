@@ -13,8 +13,8 @@ Python is an object-oriented language, but it is not a pure object-oriented lang
 
 A pure object-oriented language is one that treats everything as an object and has no primitives or non-object types. However, Python does have some non-object types such as integers, floats, and strings. These types are not objects in the sense that they do not have methods or attributes like objects do. However, Python does allow these types to be treated as objects through a process called boxing, which is automatically done by the interpreter.
 
-Python also supports procedural and functional programming paradigms, in addition to object-oriented programming, which further distinguishes it from a pure object-oriented language. However, Python's object-oriented features are robust and are widely used in many applications.
-_source:_:  😀 https://chat.openai.com/chat
+Python also supports procedural and functional programming paradigms, in addition to object-oriented programming, which further distinguishes it from a pure object-oriented language. However, Python's object-oriented features are robust and are widely used in many applications.<br/>
+_source_:  😀 https://chat.openai.com/chat
 
 #### Traits of Python ?
 - It supports functional and structured programming methods as well as OOP.
