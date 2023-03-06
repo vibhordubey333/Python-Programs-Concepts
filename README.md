@@ -4,7 +4,7 @@ Python is a:
   - **Interpreted:** Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP. 
   - **Interactive:** You can actually sit at a Python prompt and interact with the interpreter directly to write your programs.  
   - **Object-oriented:** Python supports Object-Oriented style or technique of programming that encapsulates code within objects. 
-  - high-level programming language
+  - **High-level programming language**
   - Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. 
   - Python design philosophy emphasizes code readability with the use of significant indentation.
   
