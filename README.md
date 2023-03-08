@@ -54,7 +54,19 @@ Python has various built-in data types which we will discuss with in this tutori
   - Boolean - bool
   - Set - set, frozenset
   - None - NoneType
- 
+
+#### Python -  Collections(Array)
+  _source:_ https://www.w3schools.com/python/python_dictionaries.asp
+  There are four collection data types in the Python programming language:
+  - **List** is a collection which is ordered and changeable. Allows duplicate members.
+  - **Tuple** is a collection which is ordered and unchangeable. Allows duplicate members.
+  - **Set** is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+  - **Dictionary** is a collection which is ordered** and changeable. No duplicate members.
+  
+  ```
+  *Set items are unchangeable, but you can remove and/or add items whenever you like.
+  **As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.
+  ```
  #### Checking Type In Python:
  
   ```
@@ -66,3 +78,8 @@ Python has various built-in data types which we will discuss with in this tutori
         else:
             print("")
   ```
+
+#### Reference:
+
+1. Python Collection :
+  - https://www.w3schools.com/python/python_dictionaries.asp
