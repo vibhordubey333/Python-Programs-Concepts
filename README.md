@@ -93,5 +93,7 @@ Python has various built-in data types which we will discuss with in this tutori
 
 #### Reference:
 
+0. CheatSheet:
+  - https://github.com/peterlamar/python-cp-cheatsheet
 1. Python Collection :
   - https://www.w3schools.com/python/python_dictionaries.asp
