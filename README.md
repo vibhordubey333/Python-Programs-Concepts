@@ -79,6 +79,18 @@ Python has various built-in data types which we will discuss with in this tutori
             print("")
   ```
 
+#### Functions:
+  - Syntax:
+    ```
+      def functionname( parameters ):
+      "function_docstring"
+      function_suite
+      return [expression]
+    ```
+  - Function blocks begin with the keyword def followed by the function name and parentheses ( ( ) ).
+  - All arguements in the Python language are pass by reference.
+  -
+
 #### Reference:
 
 1. Python Collection :
