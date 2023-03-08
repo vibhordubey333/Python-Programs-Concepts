@@ -100,5 +100,15 @@ def TupleTypes():
     print("Approach 5 ----- Printing tuple Enumerate")
     for i,v in enumerate(tupleObject):
         print(i," ",v)
-
 TupleTypes()
+
+def DictionaryTypes():
+    dictionaryObject = {}
+    dictionaryObject['one'] = "One"
+    dictionaryObject[1] = 1
+    print("DictionaryObject",dictionaryObject)
+    
+    # Approach 1 : Iterating over dictionary
+    for key in dictionaryObject:
+        print("Key: ",key," Value:",dictionaryObject[key])
+DictionaryTypes()
