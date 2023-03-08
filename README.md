@@ -54,3 +54,15 @@ Python has various built-in data types which we will discuss with in this tutori
   - Boolean - bool
   - Set - set, frozenset
   - None - NoneType
+ 
+ #### Checking Type In Python:
+ 
+  ```
+  for k,v in dictionaryObject.items():
+        if isinstance(v,int):
+            print("Int")
+        elif isinstance(v,str):
+            print("String")
+        else:
+            print("")
+  ```
