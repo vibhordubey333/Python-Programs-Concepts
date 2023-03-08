@@ -109,6 +109,18 @@ def DictionaryTypes():
     print("DictionaryObject",dictionaryObject)
     
     # Approach 1 : Iterating over dictionary
+    print("# Approach 1 : Iterating over dictionary")
     for key in dictionaryObject:
         print("Key: ",key," Value:",dictionaryObject[key])
+    
+    # Approach 2 : Iterate using items()
+    print("# Approach 2 : Iterate using items()")
+    for item in dictionaryObject.items():
+        print(item)
+
+    # Approach 2 : Iterate using items()
+    print("# Approach 3 : Iterate using keys()")
+    
+    for value in dictionaryObject.keys():
+        print(value)
 DictionaryTypes()
