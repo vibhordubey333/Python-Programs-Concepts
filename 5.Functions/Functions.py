@@ -16,11 +16,14 @@ DefaultFunctions(name="Sita Ram")
 DefaultFunctions(age = 50, name = "Hare Ram")
 
 # Variable arguements: When not aware how many arguements will be incoming.
+def VariadicFunc2(*argz):
+    print(argz," ",argz[1])
+    print("Type:",type(argz))
+VariadicFunc2(1,2,3,4,"A")
+
 def VariadicFunctions(*arg):
     print("Variadic Functions:")
     for a in arg:
         print(a)
     #print("Variadic Functions: Elements at index 2 is:"+args[2])
-
 VariadicFunctions('A','B','C')
-
