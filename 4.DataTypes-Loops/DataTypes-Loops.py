@@ -27,6 +27,15 @@ def StringTypes():
     print("StringTypes: ",str+" TEST") # Jupiter TEST
 print(StringTypes())
 
+"""
+List
+____
+
+Lists in Python are like arrays in C, but lists can contain data of different types. The things put away in the rundown are isolated with a comma (,) and encased 
+inside square sections [].
+To gain access to the list's data, we can use slice [:] operators. Like how they worked with strings, the list is handled by the concatenation operator (+) and 
+the repetition operator (*).
+"""
 def ListTypes():
 
     listObject = ['A',343,4.56,50.5]
