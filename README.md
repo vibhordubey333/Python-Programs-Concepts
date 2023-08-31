@@ -148,7 +148,11 @@ Python has various built-in data types which we will discuss with in this tutori
     ```
   - Function blocks begin with the keyword def followed by the function name and parentheses ( ( ) ).
   - All arguements in the Python language are pass by reference.
-  -
+
+#### Difference between Comments and DocStrings ?
+
+![image](https://github.com/vibhordubey333/Python-Programs-Concepts/assets/22407855/4a505f73-730a-47c1-aa58-ef63dc21e3b0)
+
 
 #### Reference:
 
