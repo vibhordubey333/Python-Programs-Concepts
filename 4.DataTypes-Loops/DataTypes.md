@@ -22,7 +22,7 @@ Output:
 
 ![image](https://github.com/vibhordubey333/Python-Programs-Concepts/assets/22407855/2c34fa4b-29ae-4e28-ac66-db0bdb3c4ae7)<br/>
 
-  -  Numeric: Below example shows the numeric example.
+  -  **Numeric:** Below example shows the numeric example.
         
         ```
             a = 5  
@@ -41,3 +41,5 @@ Output:
             The type of c <class 'complex'>
             c is complex number: True
         ```
+-  **Sequence Type**
+      - **String**
