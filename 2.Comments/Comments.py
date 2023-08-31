@@ -3,13 +3,17 @@
 # Line
 # Comment
 
-def add(a,b):
-    """Functions to add the value of a and b"""
-    return a+b
+def sayHello(userInput):
+    return "Hello"+" "+userInput
 
-print(add.__doc__)
-print(add(2,3))
+"""
+multi line comment
 
-#  python 2.Comments/Comments.py
-# Functions to add the value of a and b
-# 5
+"""
+print(sayHello("Alexi"))
+
+""""
+python 2.Comments/Comments.py
+Functions to add the value of a and b
+5
+"""
