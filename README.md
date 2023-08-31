@@ -153,6 +153,14 @@ Python has various built-in data types which we will discuss with in this tutori
 
 ![image](https://github.com/vibhordubey333/Python-Programs-Concepts/assets/22407855/4a505f73-730a-47c1-aa58-ef63dc21e3b0)
 
+#### Python Identifiers
+
+Python identifiers refer to a name used to identify a variable, function, module, class, module or other objects. There are few rules to follow while naming the Python Variable.<br/>
+    - A variable name must start with either an English letter or underscore (_).<br/>
+    - A variable name cannot start with the number.<br/>
+    - Special characters are not allowed in the variable name.<br/>
+    - The variable's name is case sensitive.<br/>
+
 
 #### Reference:
 
